@@ -1,0 +1,22 @@
+{
+    "name": "Uber",
+    "launch_path": "/uber/index.html",
+    "description": "Uber is your private driver in over 50 countries.",
+    "icons": {
+        "60": "/uber/img/icon-60.png",
+        "128": "/uber/img/icon-128.png"
+    },
+    "developer": {
+        "name": "Uber Technologies, Inc.",
+        "url": "http://uber.com"
+    },
+    "default_locale": "en",
+    "permissions": {
+        "browser": {
+            "description": "Allows us to have additional control over how our app is rendered."
+        },
+        "geolocation": {
+            "description": "Position the user without prompting."
+        }
+    }
+}
